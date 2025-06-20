@@ -30,7 +30,5 @@
 *.exe
 *.out
 *.app
-
-# PlatformIO and VSCode folders
-.pio
-.vscode
+/Release/
+/user-secret.h
